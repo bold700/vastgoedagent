@@ -172,3 +172,45 @@ Let bij het ontwerp op de minimale woningmaat. In Kerkrade is die 75 m2 per nieu
 woning, in Sittard-Geleen 70 m2 met 45 m2 bij functiewijziging en 55 m2 bij
 splitsing binnen de centra. Studio's van 30 m2 zijn daar dus uitgesloten, hoe
 gunstig de rekensom ook uitvalt. Zie `docs/06-gemeentelijk-kader.md`.
+
+## Nuance bij de negatieve waardecreatie in route 1
+
+Bij route 1 koop je bestaand verhuurd vastgoed tegen marktprijs. Je betaalt 8% of
+10,4% overdrachtsbelasting plus kosten, dus op dag een staat de getaxeerde waarde
+onder de kostprijs. Dat geldt voor **elke** aankoop van gestabiliseerd vastgoed en
+zegt niets over de kwaliteit van de deal. Het telt alleen als je binnen een paar
+jaar weer verkoopt. De waarde komt uit de huur, en die groeit met 4,1% per jaar in
+het sociale segment en 6,1% in het middensegment.
+
+De basistabel is bovendien op twee punten conservatief: er is 6% beheerkosten
+ingerekend, en er is getaxeerd op 8,5% bruto aanvangsrendement.
+
+| Pand | Eigen geld | Basis | Bij zelfbeheer | Bij taxatie op 7,5% |
+|---|---|---|---|---|
+| Terneuzen, Noordstraat 82 | 155.884 | 632 | **748** | 605 op 132.900 eigen geld |
+| Roermond, Neerstraat 36 en 36A | 118.374 | 523 | **627** | 533 op 97.828 eigen geld |
+| Kerkrade, Hoofdstraat 25 en 25A | 168.989 | 482 | **581** | 491 op 149.372 eigen geld |
+
+## De labelopwaardering, doorgerekend op de Terneuzense bovenwoning
+
+84 m2, WOZ na renovatie ongeveer EUR 150.000:
+
+| Label | Punten | Maximale huur | Segment |
+|---|---|---|---|
+| G | 103 | 670 | sociaal |
+| F | 109 | 709 | sociaal |
+| E | 114 | 742 | sociaal |
+| D | 129 | 840 | sociaal |
+| C | 133 | 866 | sociaal |
+| B | 148 | 964 | middenhuur |
+| A | 155 | 1.009 | middenhuur |
+
+Van G naar A is EUR 339 per maand op een eenheid, en de woning tilt zichzelf
+daarmee uit het gereguleerde sociale segment naar middenhuur. Dat is geen aanname
+maar de puntentelling van het woningwaarderingsstelsel.
+
+Let op de keerzijde: een woning boven de 143 punten valt in het middensegment en
+mag dan jaarlijks 6,1% verhoogd worden in plaats van 4,1%. Maar boven de
+huurtoeslaggrens van EUR 932,93 verlies je wel de huurders die van huurtoeslag
+afhankelijk zijn, en dat is in Zeeuws-Vlaanderen een deel van de vraag. Toets de
+werkelijke markthuur voordat je op het maximum gaat zitten.
