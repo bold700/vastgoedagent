@@ -185,3 +185,30 @@ brandveiligheid en brandcompartimentering, geluidsisolatie tussen eenheden,
 daglichttoetreding, ventilatie en vluchtroutes. Dit zijn harde toetsingscriteria
 bij de vergunningaanvraag, geen richtlijnen. Geluidsisolatie tussen woningen is in
 de praktijk de duurste en meest onderschatte post.
+
+## 11. Heerlen in het bijzonder
+
+Heerlen kent geen opkoopbescherming, maar wel een facet-bestemmingsplan
+Woningsplitsing en Kamerbewoning, vastgesteld op 25 juni 2025, plus een
+beleidsregel Minimale eisen woonkwaliteit.
+
+Relevante regels:
+
+- **Woningsplitsing is toegestaan wanneer het pand nu een commerciele functie of
+  gebruik heeft**, zoals winkel, horeca, dienstverlening of maatschappelijke
+  voorziening. Dat is precies de categorie waar de interessante panden in zitten.
+- Voor splitsing wordt uitgegaan van een **minimale omvang van 200 m2**; het pand
+  moet te groot zijn om als een enkele grondgebonden woning te functioneren.
+- Voor kamerbewoning geldt een **50-meterregel** ten opzichte van een bestaand
+  kamerverhuurpand.
+- **Iedere nieuwe woning moet over buitenruimte beschikken.** Bij een pand in het
+  centrum uit 1909 is dat de lastigste ontwerpopgave, en het is geen detail: zonder
+  buitenruimte krijg je de vergunning niet.
+- Parkeren wordt in beginsel op eigen terrein opgelost.
+- De gemeente verwijst voor woonkwaliteit naar de Woonstandaard 3.0. Er is geen
+  hard minimumoppervlak per zelfstandige woning vastgelegd in de beleidsregel zelf;
+  vraag dit expliciet op in het vooroverleg.
+
+De winkelleegstand in Heerlen is opgelopen tot ongeveer 20%, in Kerkrade tot 11,8%
+tegen 8,3% landelijk. Dat verklaart zowel de lage vierkantemeterprijzen als de
+bereidheid van de gemeente om aan transformatie mee te werken.
