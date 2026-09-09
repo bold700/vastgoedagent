@@ -36,6 +36,7 @@ rond de EUR 675.000. Dat is voor aflossing en bij een rente van 5,5%.
 | `docs/03-rekenmodel.md` | Aannames, uitkomsten en gevoeligheden |
 | `docs/04-strategie-en-kansen.md` | Drie routes en werkelijk aangeboden panden, doorgerekend |
 | `docs/05-due-diligence.md` | Wat je uitzoekt voordat je biedt |
+| `docs/06-gemeentelijk-kader.md` | Per gemeente: opkoopbescherming, splitsingsregels, minimale woningmaat, Zuid-Limburgse compensatie |
 
 ## Gereedschap
 

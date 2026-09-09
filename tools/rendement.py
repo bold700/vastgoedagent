@@ -48,6 +48,7 @@ class Plan:
     box3_vrijstelling: float = BOX3_HEFFINGSVRIJ * 2
     ovb_tarief: float = OVB_WONING_BELEGGING   # 10,4% bij levering als bedrijfspand
     bron: str = ""                             # URL of vindplaats van de aanbieding
+    compensatie_per_eenheid: float = 0.0       # Zuid-Limburg: ca. 6.251 (Parkstad)
 
     # ---------- investering ----------
     def overdrachtsbelasting(self) -> float:
@@ -63,8 +64,10 @@ class Plan:
         nuts = (n - 1) * 5_500 if self.splitsen else 0      # aparte aansluitingen
         splitsingsakte = (1_800 + n * 450) if self.splitsen else 0
         labels = n * 250
+        # compensatie geldt over de TOEGEVOEGDE woningen, niet over de eerste
+        compensatie = max(0, n - 1) * self.compensatie_per_eenheid
         return (self.bouwkosten + leges + ontwerp + onvoorzien
-                + nuts + splitsingsakte + labels)
+                + nuts + splitsingsakte + labels + compensatie)
 
     def totale_investering(self) -> float:
         return (self.koopsom + self.overdrachtsbelasting()

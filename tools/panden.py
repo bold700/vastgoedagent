@@ -18,6 +18,7 @@ class Pand:
     woz_per_eenheid: float
     bron: str
     ovb: float = 0.104           # winkel/bedrijfsruimte; 8% als het een woning is
+    compensatie: float = 0.0     # Zuid-Limburgse transformatiecompensatie
     huur_bestaand_pj: float = 0.0   # lopende huur die je overneemt
     opmerking: str = ""
 
@@ -31,7 +32,8 @@ class Pand:
                  for i in range(self.eenheden)]
         return Plan(self.naam, self.koopsom, units,
                     bouwkosten=self.m2_te_ontwikkelen * bouwkosten_per_m2,
-                    ovb_tarief=self.ovb, exit_bar=0.085, ltv=0.60, bron=self.bron)
+                    ovb_tarief=self.ovb, exit_bar=0.085, ltv=0.60, bron=self.bron,
+                    compensatie_per_eenheid=self.compensatie)
 
     def max_bouwkosten_per_m2(self, ondergrens=100, bovengrens=3000) -> float:
         """Hoogste bouwkosten per m2 waarbij de waarde de investering nog dekt."""
@@ -47,15 +49,15 @@ class Pand:
 
 PANDEN = [
     Pand("Heerlen, Wilhelminaplein 6", 295_000, 420, 7, 105_000,
-         "bedrijfspand.com/.../wilhelminaplein-6-heerlen/107658",
+         "bedrijfspand.com/.../wilhelminaplein-6-heerlen/107658", compensatie=6_251,
          opmerking="494 m2 totaal, 209 m2 lege bovenverdiepingen, bouwjaar 1909, "
                    "aangeboden als transformatieobject"),
     Pand("Heerlen, Geleenstraat 64", 330_000, 700, 11, 100_000,
-         "bedrijfspand.com/.../geleenstraat-64-heerlen/114407",
+         "bedrijfspand.com/.../geleenstraat-64-heerlen/114407", compensatie=6_251,
          opmerking="944 m2 bvo in de hoofdwinkelstraat, appartementsrecht in "
                    "actieve VvE, nu verhuurd"),
     Pand("Geleen, Marktpad 10-14", 450_000, 260, 5, 115_000,
-         "bedrijfspand.com/.../marktpad-10-geleen/122851",
+         "bedrijfspand.com/.../marktpad-10-geleen/122851", compensatie=7_175,
          opmerking="4 huisnummers, 2 lege bovenwoningen, bestemming Centrum-1 "
                    "laat wonen toe"),
     Pand("Hulst, Frans van Waesberghestraat 5", 245_000, 209, 3, 120_000,
@@ -69,7 +71,7 @@ PANDEN = [
          "bedrijfspand.com/.../weeshuisstraat-27-coevorden/114566",
          opmerking="220 m2 bedrijfsruimte plus turnkey appartement 94 m2"),
     Pand("Sittard, Tunnelstraat 93-95", 425_000, 148, 3, 125_000,
-         "bedrijfspand.com/.../tunnelstraat-95-sittard/116054",
+         "bedrijfspand.com/.../tunnelstraat-95-sittard/116054", compensatie=7_175,
          huur_bestaand_pj=36_207,
          opmerking="winkel verhuurd tot 2031, bovenwoning 148 m2 met 5 slaapkamers"),
     Pand("Meerssen, Beekstraat 58", 575_000, 0, 4, 130_000,

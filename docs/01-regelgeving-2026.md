@@ -205,9 +205,13 @@ en per gebied bevestigen voordat je biedt.
 
 Relevante regels:
 
-- **Woningsplitsing is toegestaan wanneer het pand nu een commerciele functie of
-  gebruik heeft**, zoals winkel, horeca, dienstverlening of maatschappelijke
-  voorziening. Dat is precies de categorie waar de interessante panden in zitten.
+- **Splitsen moet in Heerlen een uitzondering blijven.** Het facetbestemmingsplan
+  verbiedt woningsplitsing en kamerbewoning in beginsel. Er zijn twee
+  uitzonderingen: transformatie van een bedrijfspand met woning, en een voormalig
+  illegaal verhuurd pand groter dan 200 m2.
+- **De uitzondering geldt niet in Heerlen-centrum**, en niet in bijgebouwen.
+  Dit is beslissend: de aantrekkelijkste transformatiepanden liggen juist in het
+  centrum. Leg dit als eerste vraag voor in het vooroverleg.
 - Voor splitsing wordt uitgegaan van een **minimale omvang van 200 m2**; het pand
   moet te groot zijn om als een enkele grondgebonden woning te functioneren.
 - Voor kamerbewoning geldt een **50-meterregel** ten opzichte van een bestaand
@@ -219,6 +223,13 @@ Relevante regels:
 - De gemeente verwijst voor woonkwaliteit naar de Woonstandaard 3.0. Er is geen
   hard minimumoppervlak per zelfstandige woning vastgelegd in de beleidsregel zelf;
   vraag dit expliciet op in het vooroverleg.
+- Heerlen kent bovendien de **breedste verhuurvergunningplicht van Nederland**:
+  de Verhuurverordening Heerlen 2025, in werking op 20 januari 2026, eist een
+  vergunning voor alle woonruimte in circa twintig buurten plus vierenveertig
+  afzonderlijke straten.
+- Als Zuid-Limburgse gemeente geldt daarnaast de **compensatieplicht** bij elke
+  toegevoegde woning, in Parkstad ongeveer EUR 6.251 per appartement. Zie
+  `docs/06-gemeentelijk-kader.md`.
 
 De winkelleegstand in Heerlen is opgelopen tot ongeveer 20%, in Kerkrade tot 11,8%
 tegen 8,3% landelijk. Dat verklaart zowel de lage vierkantemeterprijzen als de

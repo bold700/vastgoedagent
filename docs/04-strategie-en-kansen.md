@@ -82,13 +82,18 @@ getal dat je aan een aannemer voorlegt voordat je biedt.
 
 | Pand | Vraagprijs | m2 te ontwikkelen | Eenheden | Waardecreatie | Max bouwkosten per m2 |
 |---|---|---|---|---|---|
-| Heerlen, Geleenstraat 64 | 330.000 | 700 | 11 | +14.678 | **1.117** |
-| Heerlen, Wilhelminaplein 6 | 295.000 | 420 | 7 | -64.978 | **972** |
+| Heerlen, Geleenstraat 64 | 330.000 | 700 | 11 | -47.832 | **1.044** |
+| Heerlen, Wilhelminaplein 6 | 295.000 | 420 | 7 | -102.484 | **898** |
 | Coevorden, Weeshuisstraat 27 | 347.500 | 314 | 5 | -204.150 | 563 |
 | Hulst, Frans van Waesberghestraat 5 | 245.000 | 209 | 3 | -173.740 | 413 |
-| Geleen, Marktpad 10-14 | 450.000 | 260 | 5 | -278.345 | 215 |
+| Geleen, Marktpad 10-14 | 450.000 | 260 | 5 | -307.045 | 124 |
 | Terneuzen, Noordstraat 82 | 290.000 | 199 | 3 | -218.920 | 191 |
-| Sittard, Tunnelstraat 93-95 | 425.000 | 148 | 3 | -329.544 | 100 |
+| Sittard, Tunnelstraat 93-95 | 425.000 | 148 | 3 | -343.894 | 100 |
+
+Deze cijfers zijn inclusief de Zuid-Limburgse transformatiecompensatie van
+EUR 6.251 per toegevoegd appartement in Parkstad en EUR 7.175 in de Westelijke
+Mijnstreek. Die post kost de twee Heerlense panden samen ongeveer EUR 100 per m2
+aan speelruimte in de bouwbegroting.
 
 Alleen de twee Heerlense panden komen in de buurt van wat een verbouwing werkelijk
 kost, en dat komt door hun uitzonderlijk lage prijs per vierkante meter:
@@ -100,6 +105,14 @@ meer opbrengt.
 bovenverdiepingen over drie lagen, bouwjaar 1909, en de verkoper biedt het zelf aan
 als transformatieobject. De winkelleegstand in Heerlen is opgelopen tot 20%, wat de
 gemeente meewerkend maakt, maar ook verklaart waarom de begane grond zo goedkoop is.
+
+**Er is echter een serieus vergunningprobleem.** Het facetbestemmingsplan van
+Heerlen verbiedt woningsplitsing in beginsel en staat het alleen toe als
+uitzondering, onder meer bij transformatie van een bedrijfspand met woning. Die
+uitzondering geldt **niet in Heerlen-centrum**, en beide panden liggen daar. Zolang
+de gemeente in vooroverleg niet schriftelijk bevestigt dat het plan onder een
+uitzondering valt, is dit geen investeerbaar project. Stel die vraag voordat je
+tijd in een aannemersbegroting steekt.
 
 Bij bouwkosten van EUR 1.000 per m2 en verkoop van een deel van de eenheden leeg:
 
@@ -148,5 +161,14 @@ EUR 30.000 tot EUR 80.000 achter de hand voor de labelopwaardering die de
 huurruimte per eenheid met honderden euro's per maand verhoogt.
 
 Doe **route 2** pas bij het tweede pand, met de ervaring en de herfinanciering van
-het eerste. Vraag ondertussen bij Heerlen Wilhelminaplein 6 een aannemersbegroting
-op. Komt die onder EUR 950 per m2, dan is dat pand alsnog het overwegen waard.
+het eerste. Vraag bij Heerlen Wilhelminaplein 6 eerst in vooroverleg of splitsing in
+het centrum uberhaupt vergund kan worden. Is het antwoord ja, vraag dan een
+aannemersbegroting op; komt die onder EUR 900 per m2, dan is het pand het overwegen
+waard. Is het antwoord nee, dan valt route 2 in Heerlen af en verschuift de aandacht
+naar Terneuzen, waar wel een volwaardig vergunningstelsel bestaat en waar de eis van
+15 m2 per persoon kleinere zelfstandige eenheden juist toelaat.
+
+Let bij het ontwerp op de minimale woningmaat. In Kerkrade is die 75 m2 per nieuwe
+woning, in Sittard-Geleen 70 m2 met 45 m2 bij functiewijziging en 55 m2 bij
+splitsing binnen de centra. Studio's van 30 m2 zijn daar dus uitgesloten, hoe
+gunstig de rekensom ook uitvalt. Zie `docs/06-gemeentelijk-kader.md`.
