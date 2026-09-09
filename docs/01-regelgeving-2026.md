@@ -133,6 +133,11 @@ Dit raakt vooral de aankoop van bestaande losse woningen. Panden die geen woning
 zijn op het moment van aankoop, zoals een winkelpand, vallen er buiten. Controleer
 dit per gemeente en per adres voordat je biedt.
 
+Van de gemeenten die in deze analyse voorkomen hebben **Roermond, Terneuzen,
+Kerkrade, Sittard-Geleen, Coevorden en Hulst geen opkoopbescherming**. Heerlen wel,
+gedeeltelijk, tot een WOZ-waarde van EUR 300.000. Peildatum van dat overzicht is
+2 juli 2026; controleer de gemeentelijke verordening zelf voordat je een bod doet.
+
 ## 7. Wet goed verhuurderschap en huurcontracten
 
 - Waarborgsom maximaal twee maanden kale huur.
@@ -188,9 +193,15 @@ de praktijk de duurste en meest onderschatte post.
 
 ## 11. Heerlen in het bijzonder
 
-Heerlen kent geen opkoopbescherming, maar wel een facet-bestemmingsplan
+Heerlen kent **wel** opkoopbescherming, met gedeeltelijke dekking en een WOZ-grens
+van EUR 300.000, sinds 1 januari 2024. Daarnaast geldt een facet-bestemmingsplan
 Woningsplitsing en Kamerbewoning, vastgesteld op 25 juni 2025, plus een
 beleidsregel Minimale eisen woonkwaliteit.
+
+Opkoopbescherming geldt voor woningen. Een pand dat op het moment van levering geen
+woning is, zoals een winkelpand, valt er in beginsel buiten. Dat is precies de
+categorie waar de interessante Heerlense panden in zitten, maar laat het per adres
+en per gebied bevestigen voordat je biedt.
 
 Relevante regels:
 
