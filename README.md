@@ -37,12 +37,15 @@ rond de EUR 675.000. Dat is voor aflossing en bij een rente van 5,5%.
 | `docs/04-strategie-en-kansen.md` | Drie routes en werkelijk aangeboden panden, doorgerekend |
 | `docs/05-due-diligence.md` | Wat je uitzoekt voordat je biedt |
 | `docs/06-gemeentelijk-kader.md` | Per gemeente: opkoopbescherming, splitsingsregels, minimale woningmaat, Zuid-Limburgse compensatie |
+| `docs/07-groeiplan.md` | Groeipad naar EUR 6.000 per maand: benodigd vermogen, structuurkeuze, fasering |
+| `docs/07-groeiplan.md` | Groeipad naar EUR 6.000 per maand: benodigd vermogen, structuurkeuze, fasering |
 
 ## Gereedschap
 
 ```bash
 python3 -m tools.scenarios   # vergelijking van vijf strategieen
 python3 -m tools.panden      # werkelijk aangeboden panden door het model
+python3 -m tools.portfolio   # benodigde omvang en groeipad naar een doelinkomen
 ```
 
 Een eigen pand doorrekenen:
